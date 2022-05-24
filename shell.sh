@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 MY_NAME=""
 echo What is your name?
 read MY_NAME 
